@@ -1,6 +1,8 @@
 # TodoMatic
 
 TodoMatic is a simple and efficient Todo app built with React, using Vite as the bundler, Tailwind CSS for styling, and Bun as the runtime generator.
+![png-1](https://i.imgur.com/0mIVseq.png)
+![png-2](https://i.imgur.com/CreiBRz.png)
 
 ## Features
 
