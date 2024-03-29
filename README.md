@@ -27,7 +27,7 @@ To get started with TodoMatic, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone
+   git clone https://github.com/Gadzrux/TodoMatic.git
    cd TodoMatic
    bun i
    bun run dev
