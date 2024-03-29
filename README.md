@@ -1,8 +1,35 @@
-# React + Vite
+# TodoMatic
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TodoMatic is a simple and efficient Todo app built with React, using Vite as the bundler, Tailwind CSS for styling, and Bun as the runtime generator.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add, edit, and delete tasks
+- Mark tasks as completed
+- Responsive design for use on various devices
+- Todos are stored in your local storage and 
+
+## Technologies Used
+
+- React
+- Vite
+- Tailwind CSS
+- Bun
+
+## Key Learnings:
+- context API in react 
+- local Storage
+
+## Getting Started
+
+To get started with TodoMatic, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone
+   cd TodoMatic
+   bun i
+   bun run dev
+   ```
+
